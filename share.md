@@ -1,6 +1,6 @@
-#360ËÑË÷RD¼¼Êõ·ÖÏí
+#360æœç´¢RDæŠ€æœ¯åˆ†äº«
 
 ##2015-04-10
 
-** [Creating a PHP Daemon Service](http://www.phpclasses.org/blog/post/270-Creating-a-PHP-Daemon-Service.html) -- By ·¶Ïş
-** [Redis ClusterÇ³ÎöºÍBada¶Ô±È](http://chuansong.me/n/1271889)
+** [Creating a PHP Daemon Service](http://www.phpclasses.org/blog/post/270-Creating-a-PHP-Daemon-Service.html) -- By èŒƒæ™“
+** [Redis Clusteræµ…æå’ŒBadaå¯¹æ¯”](http://chuansong.me/n/1271889)
